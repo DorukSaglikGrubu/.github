@@ -1,24 +1,27 @@
-# Doruk Sağlık Grubu
+# Doruk Health Group
 
-## Hakkımızda
+## About Us
 
-Biz Doruk Sağlık Grubu olarak sağlık hizmetleri alanında faaliyet gösteren bir sağlık kuruluşuyuz. Hastalarımıza en iyi hizmeti sunmak için teknolojinin gücünden yararlanıyor ve çeşitli yazılım çözümleri geliştiriyoruz. Hastane Bilgi Yönetim Sistemi (HBYS) yazılımlarımız, mobil uygulamalarımız ve API servislerimizle sağlık hizmetlerinin kalitesini artırmayı hedefliyoruz.
+As Doruk Health Group, we are a healthcare organization operating in the field of health services. We leverage the power of technology to provide the best care to our patients and develop a variety of software solutions. Our Hospital Information Management System (HIMS) software, mobile applications, and API services aim to enhance the quality of healthcare delivery.
 
-## Hizmetlerimiz
-- __HBYS Yazılımı:__ Sağlık kuruluşlarının yönetim süreçlerini daha verimli hale getirmek için geliştirdiğimiz kapsamlı yazılım çözümleri.
-- __Mobil Uygulamalar:__ Hastalarımızın ve sağlık çalışanlarımızın ihtiyaçlarını karşılamak için kullanıcı dostu ve fonksiyonel mobil uygulamalar geliştiriyoruz.
-- __API Servisleri:__ Uygulamalar arasında veri akışını sağlamak için güvenli ve hızlı API servisleri sunuyoruz.
+## Our Services
 
-## Kullandığımız Teknolojiler
-Projelerimizde en güncel ve etkili teknolojileri kullanıyoruz:
+- **HIMS Software:** Comprehensive software solutions we develop to make the management processes of healthcare institutions more efficient.  
+- **Mobile Applications:** User-friendly and functional mobile apps we build to meet the needs of both patients and healthcare professionals.  
+- **API Services:** Secure and high-performance API services we provide to ensure seamless data flow between applications.  
 
-- __Vue.js:__ Kullanıcı arayüzleri ve tek sayfa uygulamalar için tercih ettiğimiz güçlü JavaScript framework'ü.
-- __Flutter:__ Hem iOS hem de Android platformlarında yüksek performanslı mobil uygulamalar geliştirmek için kullandığımız açık kaynaklı UI yazılım geliştirme kiti.
-- __PHP:__ Sunucu taraflı web geliştirme ve API servislerinde kullandığımız esnek ve güçlü programlama dili.
-- __C#:__ Masaüstü uygulamamız için tercih ettiğimiz programlama dili.
+## Technologies We Use
 
-## İletişim
-Proje ve hizmetlerimiz hakkında daha fazla bilgi almak veya işbirliği yapmak için bizimle iletişime geçmekten çekinmeyin!
+We employ the latest and most effective technologies in our projects:
+
+- **Vue.js:** The powerful JavaScript framework we use for building user interfaces and single-page applications.  
+- **Flutter:** The open-source UI toolkit we rely on to create high-performance mobile apps for both iOS and Android platforms.  
+- **PHP:** The flexible and robust server-side language we use for web development and API services.  
+- **C#:** The programming language we choose for our desktop application.  
+
+## Contact
+
+If you’d like more information about our projects and services or are interested in collaborating, please don’t hesitate to get in touch!
 
 <p align="center">
   <a href="">
